@@ -46,7 +46,7 @@ function draw() {
 	noFill();
 	stroke(250, 150);
 	strokeWeight(10);
-	rectangle(0, 0, 1200, 600);
+	ellipse(0, 0, 210, 210);
 	pop();
 
 	// name
